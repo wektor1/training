@@ -5,7 +5,9 @@ int main()
 {
 	using namespace std;
 	cout<<"hello world"<<endl;
-	cout<<"Hello Coders School"<<endl;
-	cout<<"hello master"<<endl;
+	cout<<"hello master"
+	for (int i =0;i<10;i++)
+		cout<<i<<endl;
+	
 	return 0;
 }
